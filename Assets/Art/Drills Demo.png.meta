@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 351ab93f223d78049a8cf21d54a3d6b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7248123435928227209
+    second: Drills Demo_0
+  - first:
+      213: -1181567630237361241
+    second: Drills Demo_1
+  - first:
+      213: -4190082590118976457
+    second: Drills Demo_2
+  - first:
+      213: 6481861991734245274
+    second: Drills Demo_3
+  - first:
+      213: 8893461938270694251
+    second: Drills Demo_4
+  - first:
+      213: -916841445420957048
+    second: Drills Demo_5
+  - first:
+      213: 4337820992655566230
+    second: Drills Demo_6
+  - first:
+      213: 1402777272196606900
+    second: Drills Demo_7
+  - first:
+      213: -146006998675263452
+    second: Drills Demo_8
+  - first:
+      213: 7985917084438713525
+    second: Drills Demo_9
+  - first:
+      213: 4252603753943840897
+    second: Drills Demo_10
+  - first:
+      213: 7041195397888204969
+    second: Drills Demo_11
+  - first:
+      213: -8705163433731620639
+    second: Drills Demo_12
+  - first:
+      213: 5772385730495299293
+    second: Drills Demo_13
+  - first:
+      213: 3291264233889250951
+    second: Drills Demo_14
+  - first:
+      213: 4306015673232959594
+    second: Drills Demo_15
+  - first:
+      213: 8805228531268936407
+    second: Drills Demo_16
+  - first:
+      213: -3162132708396438824
+    second: Drills Demo_17
+  - first:
+      213: 7470977599247032835
+    second: Drills Demo_18
+  - first:
+      213: 1221854885359801365
+    second: Drills Demo_19
+  - first:
+      213: 2660579519313372161
+    second: Drills Demo_20
+  - first:
+      213: 6183768081105133157
+    second: Drills Demo_21
+  - first:
+      213: -6768709130431991821
+    second: Drills Demo_22
+  - first:
+      213: 5434813213883464846
+    second: Drills Demo_23
+  - first:
+      213: -5716677724080678179
+    second: Drills Demo_24
+  - first:
+      213: -8319329757119814935
+    second: Drills Demo_25
+  - first:
+      213: -698396095702991115
+    second: Drills Demo_26
+  - first:
+      213: 5742047983618152837
+    second: Drills Demo_27
+  - first:
+      213: 1873624800997333552
+    second: Drills Demo_28
+  - first:
+      213: -6142483055578911619
+    second: Drills Demo_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drills Demo_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1448
+        width: 135
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1a91208a3a9fe0800000000000000
+      internalID: -1181567630237361241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1448
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734e8649516d9d5c0800000000000000
+      internalID: -4190082590118976457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1259
+        width: 141
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88204522099b643f0800000000000000
+      internalID: -916841445420957048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1259
+        width: 195
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695a776c539033c30800000000000000
+      internalID: 4337820992655566230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1061
+        width: 135
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b451bfe64da3de60800000000000000
+      internalID: 7985917084438713525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1061
+        width: 195
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188b05c3598440b30800000000000000
+      internalID: 4252603753943840897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 875
+        width: 141
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeb4bc0d32ab1050800000000000000
+      internalID: 5772385730495299293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 872
+        width: 213
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ebae2026becad20800000000000000
+      internalID: 3291264233889250951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 671
+        width: 123
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30225082b8e3ea760800000000000000
+      internalID: 7470977599247032835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 668
+        width: 198
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51452f86b86e4f010800000000000000
+      internalID: 1221854885359801365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 473
+        width: 135
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff68a478e6b012a0800000000000000
+      internalID: -6768709130431991821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 473
+        width: 186
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c7f1ab2d55c6b40800000000000000
+      internalID: 5434813213883464846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 242
+        width: 147
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda58c0f5e74aa0b0800000000000000
+      internalID: -5716677724080678179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 242
+        width: 210
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e26981e9adcb8c80800000000000000
+      internalID: -8319329757119814935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 23
+        width: 135
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe7a13837cce46f0800000000000000
+      internalID: -698396095702991115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drills Demo_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 23
+        width: 210
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589decae73adfaf40800000000000000
+      internalID: 5742047983618152837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Drills Demo_1: -1181567630237361241
+      Drills Demo_10: 4252603753943840897
+      Drills Demo_13: 5772385730495299293
+      Drills Demo_14: 3291264233889250951
+      Drills Demo_18: 7470977599247032835
+      Drills Demo_19: 1221854885359801365
+      Drills Demo_2: -4190082590118976457
+      Drills Demo_22: -6768709130431991821
+      Drills Demo_23: 5434813213883464846
+      Drills Demo_24: -5716677724080678179
+      Drills Demo_25: -8319329757119814935
+      Drills Demo_26: -698396095702991115
+      Drills Demo_27: 5742047983618152837
+      Drills Demo_5: -916841445420957048
+      Drills Demo_6: 4337820992655566230
+      Drills Demo_9: 7985917084438713525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

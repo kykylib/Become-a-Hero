@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - bullet
+  - Enemy
+  - Drill
+  - HitPoint
+  - HitPointBoss
+  - HitPointGoblin
+  - explosion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hero
+  - Bullets
+  - Enemies
+  - Background
+  - HitPoints
+  - Walls
+  - HealthBar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 867020211
+    locked: 0
+  - name: Enviroment
+    uniqueID: 3255446583
+    locked: 0
+  - name: Hero
+    uniqueID: 3647904799
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Effects
+    uniqueID: 2439742149
+    locked: 0

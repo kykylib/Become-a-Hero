@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: 485a0bdc86180a44898a8f61e477ad3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8071384573604847041
+    second: AssetGroundDecorate_0
+  - first:
+      213: 7899301912759948164
+    second: AssetGroundDecorate_1
+  - first:
+      213: -1086462633727940167
+    second: AssetGroundDecorate_2
+  - first:
+      213: 6542527173134200254
+    second: AssetGroundDecorate_3
+  - first:
+      213: 6257064207075780773
+    second: AssetGroundDecorate_4
+  - first:
+      213: -3825321446301210924
+    second: AssetGroundDecorate_5
+  - first:
+      213: 5734780934079750456
+    second: AssetGroundDecorate_6
+  - first:
+      213: 7958858398005107537
+    second: AssetGroundDecorate_7
+  - first:
+      213: -2784205212454735949
+    second: AssetGroundDecorate_8
+  - first:
+      213: -3252572160508398363
+    second: AssetGroundDecorate_9
+  - first:
+      213: 1246094977291320754
+    second: AssetGroundDecorate_10
+  - first:
+      213: -2324031272745128384
+    second: AssetGroundDecorate_11
+  - first:
+      213: -8116895003610379581
+    second: AssetGroundDecorate_12
+  - first:
+      213: -4390750823234970390
+    second: AssetGroundDecorate_13
+  - first:
+      213: -67328312296578412
+    second: AssetGroundDecorate_14
+  - first:
+      213: 8936644147068076020
+    second: AssetGroundDecorate_15
+  - first:
+      213: 6008762065568384208
+    second: AssetGroundDecorate_16
+  - first:
+      213: 1270983243384564898
+    second: AssetGroundDecorate_17
+  - first:
+      213: 6634501827639713531
+    second: AssetGroundDecorate_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AssetGroundDecorate_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 134
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3227bc8e7eacff80800000000000000
+      internalID: -8071384573604847041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 128
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483de93cc35ff9d60800000000000000
+      internalID: 7899301912759948164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 104
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b929eeadfb1ce0f0800000000000000
+      internalID: -1086462633727940167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 118
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd2108dcc9bbca50800000000000000
+      internalID: 6542527173134200254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 107
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a82097bebe85d650800000000000000
+      internalID: 6257064207075780773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 87
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66889796ab9eac0800000000000000
+      internalID: -3825321446301210924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 86
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a18810e8069f40800000000000000
+      internalID: 5734780934079750456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b9abe8b8b837e60800000000000000
+      internalID: 7958858398005107537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 73
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf28d15c148c59d0800000000000000
+      internalID: -2784205212454735949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 68
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e472965ada8cd2d0800000000000000
+      internalID: -3252572160508398363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdf8dd97c40b4110800000000000000
+      internalID: 1246094977291320754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 29
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ea025eed16fbfd0800000000000000
+      internalID: -2324031272745128384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 27
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca09a6dffefa5f80800000000000000
+      internalID: -8116895003610379581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 107
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec53d3b36be013c0800000000000000
+      internalID: -4390750823234970390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 19
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4926c36b14dc01ff0800000000000000
+      internalID: -67328312296578412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 9
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fff01ed086550c70800000000000000
+      internalID: 8936644147068076020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 97
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4cb0a4349636350800000000000000
+      internalID: 6008762065568384208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac2961a68073a110800000000000000
+      internalID: 1270983243384564898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetGroundDecorate_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe152ad24c721c50800000000000000
+      internalID: 6634501827639713531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AssetGroundDecorate_0: -8071384573604847041
+      AssetGroundDecorate_1: 7899301912759948164
+      AssetGroundDecorate_10: 1246094977291320754
+      AssetGroundDecorate_11: -2324031272745128384
+      AssetGroundDecorate_12: -8116895003610379581
+      AssetGroundDecorate_13: -4390750823234970390
+      AssetGroundDecorate_14: -67328312296578412
+      AssetGroundDecorate_15: 8936644147068076020
+      AssetGroundDecorate_16: 6008762065568384208
+      AssetGroundDecorate_17: 1270983243384564898
+      AssetGroundDecorate_18: 6634501827639713531
+      AssetGroundDecorate_2: -1086462633727940167
+      AssetGroundDecorate_3: 6542527173134200254
+      AssetGroundDecorate_4: 6257064207075780773
+      AssetGroundDecorate_5: -3825321446301210924
+      AssetGroundDecorate_6: 5734780934079750456
+      AssetGroundDecorate_7: 7958858398005107537
+      AssetGroundDecorate_8: -2784205212454735949
+      AssetGroundDecorate_9: -3252572160508398363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
